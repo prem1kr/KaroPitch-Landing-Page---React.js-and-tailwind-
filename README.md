@@ -98,6 +98,13 @@ http://localhost:3000
 
 ## 📸 UI Sections
 
+Screenshot 2026-03-12 134421.png
+Screenshot 2026-03-12 134430.png
+Screenshot 2026-03-12 134440.png
+Screenshot 2026-03-12 134449.png
+Screenshot 2026-03-12 134457.png
+Screenshot 2026-03-12 134507.png
+
 The frontend includes the following sections:
 
 * Navbar
